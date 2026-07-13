@@ -1,0 +1,45 @@
+# Built objects and native libraries
+bin/
+gen/
+out/
+.gradle/
+build/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+/captures/
+.navigation/
+assetWizardSettings.xml
+modules.xml
+workspace.xml
+navEditor.xml
+compiler.xml
+caches/
+libraries/
+
+# Local configuration
+local.properties
+
+# Secrets
+signing.properties
+secrets.xml
+google-services.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Kotlin
+.kotlin/

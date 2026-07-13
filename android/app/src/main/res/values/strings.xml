@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Hazard Reporter</string>
+    <string name="title_activity_maps">Hazard Map</string>
+    <string name="hazard_reporter">Hazard Reporter</string>
+    <string name="theme">Theme</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="menu">Menu</string>
+    <string name="report_hazard">Report Hazard</string>
+    <string name="refresh_map">Refresh Map</string>
+    <string name="about_app">About App</string>
+    <string name="user_name">User Name</string>
+    <string name="hazard_category">Hazard Category</string>
+    <string name="hazard_description">Hazard Description</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="hazard_reported_success">Hazard reported successfully!</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+    <string name="error_loading_hazards">Error loading hazards</string>
+    <string name="about_title">About</string>
+    <string name="project_description">This application allows users to view and report real-time hazards in their community. Using crowdsourced data, we aim to make travel safer for everyone.</string>
+    <string name="developer_info">Developer Information</string>
+    <string name="group_name">Group Name: [Group Name Placeholder]</string>
+    <string name="programme">Programme: [Programme Placeholder]</string>
+    <string name="github_url">GitHub: https://github.com/yourproject</string>
+    <string name="team_members">Team Members</string>
+    <string name="copyright">© 2024 Hazard Monitor Team</string>
+    <string name="close_details">Close hazard details</string>
+    <string name="app_version">Version 1.0.0</string>
+    <string name="github_repository">GitHub Repository</string>
+    <string name="app_info">Application Information</string>
+</resources>

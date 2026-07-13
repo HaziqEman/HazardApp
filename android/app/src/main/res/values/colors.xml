@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Light Theme Colors (original — kept as-is) -->
+    <color name="primary">#0D6EFD</color>
+    <color name="onPrimary">#ffffff</color>
+    <color name="primaryContainer">#cbe6ff</color>
+    <color name="onPrimaryContainer">#001e30</color>
+
+    <color name="secondary">#FF9800</color>
+    <color name="onSecondary">#ffffff</color>
+    <color name="secondaryContainer">#d3e5f5</color>
+    <color name="onSecondaryContainer">#0c1d29</color>
+
+    <color name="tertiary">#65587b</color>
+    <color name="onTertiary">#ffffff</color>
+    <color name="tertiaryContainer">#ecdcff</color>
+    <color name="onTertiaryContainer">#211634</color>
+
+    <color name="error">#ba1a1a</color>
+    <color name="onError">#ffffff</color>
+    <color name="errorContainer">#ffdad6</color>
+    <color name="onErrorContainer">#410002</color>
+
+    <color name="background">#F4F6FB</color>
+    <color name="onBackground">#1a1c1e</color>
+    <color name="surface">#fcfcff</color>
+    <color name="onSurface">#1a1c1e</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Custom brand colors for splash screen / manual theming -->
+    <color name="brand_blue">#0D6EFD</color>
+    <color name="brand_blue_dark">#0A58CA</color>
+    <color name="brand_blue_light">#E7F1FF</color>
+    <color name="accent_amber">#FF9800</color>
+    <color name="accent_amber_dark">#E68900</color>
+    <color name="background_light">#F4F6FB</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_primary_light">#212529</color>
+    <color name="text_secondary_light">#6C757D</color>
+    <color name="background_dark">#121417</color>
+    <color name="surface_dark">#1E2126</color>
+    <color name="text_primary_dark">#F1F3F5</color>
+    <color name="text_secondary_dark">#ADB5BD</color>
+
+    <!-- Hazard Marker Colors -->
+    <color name="hazard_building">#E53935</color>
+    <color name="hazard_road">#FDD835</color>
+    <color name="hazard_environmental">#43A047</color>
+</resources>

@@ -9,9 +9,32 @@ Thumbs.db
 *.iml
 *.iws
 *.ipr
+/.fleet
+/.nova
+/.zed
 
 # Logs
 *.log
+npm-debug.log
+yarn-error.log
 
 # Local configuration
 local.properties
+.env
+.env.backup
+.env.production
+/auth.json
+Homestead.json
+Homestead.yaml
+
+# Laravel / PHP specifics (Root level if applicable)
+/vendor
+/node_modules
+/public/storage
+/public/hot
+/public/build
+/storage/*.key
+/storage/pail
+/.phpunit.cache
+.phpunit.result.cache
+.phpactor.json
